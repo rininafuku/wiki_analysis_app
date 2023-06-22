@@ -1,0 +1,2 @@
+./docker/db/mysql_env_variable.env
+.dockerignore
