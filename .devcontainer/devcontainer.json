@@ -13,6 +13,5 @@
         "bmewburn.vscode-intelephense-client",
         "oderwat.indent-rainbow",
         "streetsidesoftware.code-spell-checker"
-    ],
-    "overrideCommand": true
+    ]
 }
